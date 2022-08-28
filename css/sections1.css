@@ -34,6 +34,8 @@ img.img_pic {
   display: inline-block;
   position: relative;
   top: -2px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
 img.logo_main {
