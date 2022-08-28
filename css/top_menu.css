@@ -4,13 +4,15 @@
   padding-right: 20px;
   padding-bottom: 10px;
   border-bottom: 2px solid #F5F5F5;
+  max-width: 1400px;
+  margin: auto;
 }
 
 
 p.weather_p {
   font-family: "CanelaText-Light-Trial";
   text-transform: uppercase;
-  font-size: 16px;
+  font-size: 14px;
   color: black;
   margin: 0px;
 }
@@ -31,13 +33,13 @@ span.weather_icon {
 
 span.weather_temperature {
   font-family: "Canela-Bold-Trial";
-  font-size: 18px;
+  font-size: 16px;
   color: black;
 }
 
 .menu_burger_icon {
-  width: 60px;
-  height: 17px;
+  width: 48px;
+  height: 14px;
   background: url(../images/menu_burger.svg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -52,8 +54,8 @@ span.weather_temperature {
 }
 
 .search_icon {
-  width: 34px;
-  height: 34px;
+  width: 24px;
+  height: 24px;
   background: url(../images/search.svg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -74,7 +76,7 @@ button.signin_btn {
   border-radius: 20px;
   background: white;
   padding: 6px 16px;
-  font-size: 16px;
+  font-size: 13px;
   font-family: "CanelaText-Light-Trial";
 }
 
@@ -89,8 +91,8 @@ button.signin_btn {
 
 .dropbtn {
   color: black;
-  padding: 16px;
-  font-size: 16px;
+  padding: 13px;
+  font-size: 15px;
   border: none;
   background-color: white;
   font-family: "CanelaText-Light-Trial";

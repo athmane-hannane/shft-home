@@ -1,0 +1,49 @@
+.section_1 {
+  max-width: 1300px;
+  margin: auto;
+  text-align: center;
+  padding-top: 110px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+img.img_pic {
+  width: 100%;
+}
+
+.main_article_p {
+  font-family: "CanelaText-Light-Trial";
+  font-size: 14px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.main_article_h1 {
+  font-family: "Canela-Bold-Trial";
+  font-size: 26px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+
+.space_round {
+  background: #1DAC68;
+  height: 6px;
+  width: 6px;
+  border-radius: 100px;
+  display: inline-block;
+  position: relative;
+  top: -2px;
+}
+
+img.logo_main {
+  width: 240px;
+}
+
+.logo_div {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  text-align: center;
+  top: -100px;
+}
