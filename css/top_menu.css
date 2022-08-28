@@ -36,8 +36,8 @@ span.weather_temperature {
 }
 
 .menu_burger_icon {
-  width: 65px;
-  height: 18px;
+  width: 60px;
+  height: 17px;
   background: url(../images/menu_burger.svg);
   background-size: cover;
   background-repeat: no-repeat;
