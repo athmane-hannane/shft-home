@@ -94,6 +94,7 @@ button.signin_btn {
   border: none;
   background-color: white;
   font-family: "CanelaText-Light-Trial";
+  padding-right: 0px;
 }
 
 .dropdown {
