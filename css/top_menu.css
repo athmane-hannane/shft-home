@@ -1,0 +1,62 @@
+.top_menu_main {
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #F5F5F5;
+}
+
+
+p.weather_p {
+  font-family: "CanelaText-Light-Trial";
+  text-transform: uppercase;
+  font-size: 16px;
+  color: black;
+}
+
+span.weather_icon {
+  width: 28px;
+  height: 28px;
+  background: url(../images/sun.svg);
+  display: inline-block;
+  margin-left: 12px;
+  margin-right: 2px;
+  position: relative;
+  top: 6px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+span.weather_temperature {
+  font-family: "Canela-Bold-Trial";
+  font-size: 18px;
+  color: black;
+}
+
+.menu_burger_icon {
+  width: 65px;
+  height: 18px;
+  background: url(../images/menu_burger.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-bottom: 15px;
+}
+
+.search_menu_brg_div {
+  padding-top: 10px;
+  display: inline-flex;
+}
+
+.search_icon {
+  width: 34px;
+  height: 34px;
+  background: url(../images/search.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  top: -5px;
+  margin-left: 18px;
+}
