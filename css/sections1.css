@@ -111,28 +111,39 @@ img.articles_left_img {
 .separate_lines_main {
   max-width: 1300px;
   margin: auto;
-  position: absolute;
+  position: relative;
+}
+
+.separate_lines_main_inside {
+  width: 100%;
+  position: fixed;
+  height: 100vh;
+  margin: auto;
+  max-width: 1300px;
 }
 
 .separate_lines_div_left {
-  height: 100vh;
+  min-height: 100vh;
+  height: 100%;
   width: 25%;
-  position: fixed;
+  position: absolute;
   border-right: 2px solid #F5F5F5;
 }
 
 .separate_lines_div_middle {
-  height: 100vh;
+  min-height: 100vh;
+  height: 100%;
   width: 50.2%;
-  position: fixed;
+  position: absolute;
   border-right: 2px solid #F5F5F5;
 }
 
 
 .separate_lines_div_right {
-  height: 100vh;
+  min-height: 100vh;
+  height: 100%;
   width: 74.6%;
-  position: fixed;
+  position: absolute;
   border-right: 2px solid #F5F5F5;
 }
 
