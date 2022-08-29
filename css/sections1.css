@@ -13,9 +13,10 @@ img.img_pic {
 
 .main_article_p {
   font-family: "CanelaText-Light-Trial";
-  font-size: 14px;
+  font-size: 13px;
   padding-left: 2px;
   padding-right: 2px;
+  text-transform: uppercase;
 }
 
 .main_article_h1 {
@@ -116,14 +117,14 @@ img.articles_left_img {
 .separate_lines_div_left {
   height: 100vh;
   width: 25%;
-  position: absolute;
+  position: fixed;
   border-right: 2px solid #F5F5F5;
 }
 
 .separate_lines_div_middle {
   height: 100vh;
   width: 50.2%;
-  position: absolute;
+  position: fixed;
   border-right: 2px solid #F5F5F5;
 }
 
@@ -131,6 +132,80 @@ img.articles_left_img {
 .separate_lines_div_right {
   height: 100vh;
   width: 74.6%;
-  position: absolute;
+  position: fixed;
   border-right: 2px solid #F5F5F5;
+}
+
+img.card_img_a_u_img {
+  width: 100%;
+}
+
+h4.header_4 {
+  margin: 0;
+  font-family: "CanelaText-Light-Trial";
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.card_article {
+  padding-top: 90px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.card_img_a_u_textes {
+  text-align: left;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.card_img_a_u {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.separate_line {
+  width: 100%;
+  height: 1px;
+  background: black;
+  margin-bottom: 20px;
+}
+
+h2.card_a_u_header_2 {
+  margin: 0;
+  font-family: "CanelaText-Light-Trial";
+  color: #000;
+}
+
+p.card_a_u_p {
+  font-size: 13px;
+  font-family: "CanelaText-Light-Trial";
+  color: #000;
+  margin: 0;
+  padding-top: 10px;
+}
+
+.card_img_a_u_textes p.main_article_p {
+  margin: 0;
+  padding-bottom: 10px;
+}
+
+h5.header_5_big {
+  text-align: left;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-size: 50px;
+  margin: 0;
+  font-family: "Canela-Bold-Trial";
+}
+span.month_span {
+  font-size: 16px;
+  font-family: "CanelaText-Light-Trial";
+  position: relative;
+  top: -20px;
+}
+
+.card_article_unit {
+  padding-bottom: 15px;
+  padding-top: 10px;
 }
