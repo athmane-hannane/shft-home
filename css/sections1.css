@@ -120,6 +120,7 @@ img.articles_left_img {
   height: 100vh;
   margin: auto;
   max-width: 1300px;
+  top: 0px;
 }
 
 .separate_lines_div_left {
