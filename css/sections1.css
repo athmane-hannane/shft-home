@@ -20,9 +20,11 @@ img.img_pic {
 
 .main_article_h1 {
   font-family: "Canela-Bold-Trial";
-  font-size: 26px;
-  padding-left: 2px;
-  padding-right: 2px;
+  font-size: 22px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 80%;
+  margin: auto;
 }
 
 
@@ -39,7 +41,7 @@ img.img_pic {
 }
 
 img.logo_main {
-  width: 240px;
+  width: 190px;
 }
 
 .logo_div {
@@ -47,21 +49,88 @@ img.logo_main {
   left: 0px;
   right: 0px;
   text-align: center;
-  top: -100px;
+  top: -75px;
 }
 
 .main_article, .others_articles {
-  padding: 5px;
+  padding: 10px;
 }
 
 .main_article_h3 {
   font-family: "CanelaText-Light-Trial";
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 17px;
 }
 
 .others_articles_left {
-  padding-right: 5px;
+  padding-right: 10px;
+  position: relative;
+  top: -20px;
 }
 
 .others_articles_right {
-  padding-left: 5px;
+  padding-left: 10px;
+}
+
+.witdh_80 {
+  width: 80%;
+  margin: auto;
+}
+
+.left_padding {
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+img.articles_left_img {
+  width: 100%;
+}
+
+.articles_left_div_textes p.main_article_p.left_padding {
+  margin: 0px;
+}
+
+.articles_left_div_textes h3.main_article_h3 {
+  margin: 0px;
+  padding-top: 10px;
+}
+
+.article_d.small {
+  width: 95%;
+  margin: auto;
+}
+
+.article_d, .articles_left {
+  padding-bottom: 15px;
+}
+
+.separate_lines_main {
+  max-width: 1300px;
+  margin: auto;
+  position: relative;
+}
+
+.separate_lines_div_left {
+  height: 100vh;
+  width: 25%;
+  position: absolute;
+  border-right: 2px solid #F5F5F5;
+}
+
+.separate_lines_div_middle {
+  height: 100vh;
+  width: 50.2%;
+  position: absolute;
+  border-right: 2px solid #F5F5F5;
+}
+
+
+.separate_lines_div_right {
+  height: 100vh;
+  width: 74.6%;
+  position: absolute;
+  border-right: 2px solid #F5F5F5;
 }
