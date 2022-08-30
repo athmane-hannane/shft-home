@@ -264,3 +264,28 @@ h4.header_green_h4_g {
   padding: 30px;
   padding-top: 10px;
 }
+
+.discover_btn_div {
+  padding: 30px 0px;
+  text-align: left;
+}
+
+button.discover_btn {
+  font-family: "Canela-Bold-Trial";
+  color: #000;
+  font-size: 20px;
+  background: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+.line_under {
+  width: 30px;
+  height: 2px;
+  background: #1DAC68;
+}
+
+.separate_line_end {
+  margin-top: 10px;
+}
