@@ -53,11 +53,11 @@ img.logo_main {
   top: -75px;
 }
 
-.main_article {
+.main_article, .others_articles {
   padding: 10px;
 }
 
-.inside_left, .others_articles {
+.inside_left {
   padding: 10px;
   padding-left: 70px;
   padding-right: 70px;
@@ -72,13 +72,20 @@ img.logo_main {
 }
 
 .others_articles_left {
-  padding-right: 10px;
+  padding-right: 40px;
+  padding-left: 30px;
   position: relative;
   top: -20px;
 }
 
+.section_first_end {
+  padding-right: 35px;
+  padding-left: 35px;
+}
+
 .others_articles_right {
-  padding-left: 10px;
+  padding-left: 40px;
+  padding-right: 30px;
 }
 
 .witdh_80 {
