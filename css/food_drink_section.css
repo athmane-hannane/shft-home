@@ -58,3 +58,34 @@
   cursor: pointer; /* Cursor on hover */
   border-radius: 100%;
 }
+
+.carrousel_item_small_textes {
+  text-align: left;
+  padding-top: 14px;
+}
+
+.carrousel_item_small_textes .main_article_h3 {
+  padding: 0px;
+} 
+
+.carrousel_item_small_inside {
+  padding: 20px 30px;
+}
+
+.carrousel_item_small_img {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 190px;
+}
+
+.carrousel_item_shift {
+  width: 30%;
+  float: left;
+}
+
+.carrousel_shift_div {
+  padding-left: 80px;
+  padding-right: 80px;
+}
