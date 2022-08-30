@@ -221,3 +221,46 @@ span.month_span {
   padding-bottom: 15px;
   padding-top: 10px;
 }
+
+.card_green {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.card_green_inside {
+  border: 2px solid #1DAC68;
+}
+
+h4.header_green_h4 {
+  margin: 0;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-family: "CanelaText-Light-Trial";
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+span.slash {
+  color: #1DAC68;
+  margin-left: 10px;
+}
+
+h4.header_green_h4_g {
+  color: #1DAC68;
+  margin: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-family: "Canela-Bold-Trial";
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 25px;
+  max-width: 80%;
+  margin: auto;
+}
+
+.card_green_img {
+  padding: 30px;
+  padding-top: 10px;
+}
