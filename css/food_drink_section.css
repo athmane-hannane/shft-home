@@ -81,7 +81,7 @@
 }
 
 .carrousel_item_shift {
-  width: 30%;
+  width: 25%;
   float: left;
 }
 
@@ -92,7 +92,7 @@
 
 
 .carrousel_item_shift_big {
-  width: 40%;
+  width: 37%;
   float: left;
   padding: 8px 30px;
 }
@@ -116,6 +116,9 @@
   padding-left: 10px;
   padding-right: 10px;
   text-align: center;
-  max-width: 90%;
-  margin: auto;
+}
+
+.carrousel_shift {
+  overflow: scroll;
+  display: -webkit-inline-box;
 }
