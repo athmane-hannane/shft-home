@@ -53,8 +53,14 @@ img.logo_main {
   top: -75px;
 }
 
-.main_article, .others_articles {
+.main_article {
   padding: 10px;
+}
+
+.inside_left, .others_articles {
+  padding: 10px;
+  padding-left: 70px;
+  padding-right: 70px;
 }
 
 .main_article_h3 {
@@ -288,4 +294,60 @@ button.discover_btn {
 
 .separate_line_end {
   margin-top: 10px;
+}
+
+.newsletter_card {
+  padding: 20px 20px;
+}
+
+.icon_mail {
+  max-width: 45px;
+}
+
+.newsletter_card_inside {
+  padding: 20px;
+  background: #F5F5F5;
+}
+
+.newsletter_card_content {
+  text-align: left;
+}
+
+p.newsletter_card_p {
+  margin: 0px;
+  color: #1DAC68;
+  font-family: "Canela-Bold-Trial";
+}
+
+input.email_input {
+  border: none;
+  border-bottom: 1px solid black;
+  background: none;
+  padding-bottom: 10px;
+  font-size: 18px;
+  font-family: "CanelaText-Light-Trial";
+  outline: 0;
+}
+
+.newsletter_card_content_form {
+  padding-top: 18px;
+}
+
+button.submit_btn {
+  border: 1px solid #DADBDB;
+  background: none;
+  border-radius: 100%;
+  height: 48px;
+  width: 48px;
+  margin-left: 30px;
+}
+
+.width_60px {
+  width: 60px;
+  float: left;
+}
+
+.width_100p_60px {
+  width: calc(100% - 60px);
+  float: left;
 }
