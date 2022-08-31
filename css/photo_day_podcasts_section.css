@@ -33,6 +33,7 @@ h4.title_pod_h4 {
   padding-left: 10px;
   padding-right: 10px;
   text-align: center;
+  margin-bottom: 10px;
 }
 
 span.by_pod {
@@ -43,6 +44,7 @@ span.by_pod {
 p.author_pod_p {
   font-size: 16px;
   font-family: "CanelaText-Light-Trial";
+  margin-top: 0px;
 }
 
 span.img_auth {
@@ -57,4 +59,19 @@ span.img_auth {
   top: 10px;
   margin-left: 10px;
   margin-right: 5px;
+}
+
+.btn_submit_div {
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 30px;
+}
+
+button.btn_submit {
+  background: none;
+  border: 1px solid;
+  border-radius: 30px;
+  padding: 8px 17px;
+  font-size: 14px;
+  font-family: "Canela-Bold-Trial";
 }
