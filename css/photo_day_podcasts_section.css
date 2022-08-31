@@ -1,0 +1,60 @@
+.pod_podcast_section {
+  max-width: 1300px;
+  margin: auto;
+  position: relative;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.pod_podcast_section_inside {
+  text-align: center;
+}
+
+img.photo_of_day_img {
+  width: 100%;
+}
+
+.photo_of_day {
+  width: 100%;
+  height: 550px;
+  background: url(../images/pod.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.podp_left_inside {
+  padding: 50px;
+}
+
+h4.title_pod_h4 {
+  font-family: "Canela-Bold-Trial";
+  font-size: 22px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
+
+span.by_pod {
+  font-size: 13px;
+  font-family: "CanelaText-Light-Trial";
+}
+
+p.author_pod_p {
+  font-size: 16px;
+  font-family: "CanelaText-Light-Trial";
+}
+
+span.img_auth {
+  width: 35px;
+  height: 35px;
+  background: url(../images/profile_user.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: inline-block;
+  position: relative;
+  top: 10px;
+  margin-left: 10px;
+  margin-right: 5px;
+}
