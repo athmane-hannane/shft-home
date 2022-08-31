@@ -78,12 +78,69 @@ button.btn_submit {
 
 .podp_right_inside {
   padding-top: 125px;
-  padding-left: 45px;
-  padding-right: 45px;
+  padding-left: 80px;
+  padding-right: 80px;
 }
 
 .podp_podcasts_space {
   height: 2px;
   width: 100%;
   background: black;
+}
+
+.inside_img {
+  width: 100%;
+  height: 120px;
+  background: url(../images/podcast.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.inside_textes_div {
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h5.header_5_podcast {
+  margin: 0;
+  font-size: 16px;
+  font-family: "CanelaText-Light-Trial";
+}
+
+.podp_podcasts_item {
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+p.paragraphe_podcast {
+  margin: 0;
+  font-size: 14px;
+  font-family: "CanelaText-Light-Trial";
+  padding-top: 10px;
+  color: #646867;
+}
+
+span.author_podcast_by {
+  color: #414A48;
+  font-size: 13px;
+  font-family: "CanelaText-Light-Trial";
+}
+
+span.author_podcast_by.span_name {
+  color: black;
+  padding-left: 7px;
+  font-size: 14px;
+}
+
+.inside_img_texte {
+  padding: 2px 5px;
+  background: #ffffffcc;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  font-size: 15px;
+  font-family: "Canela-Bold-Trial";
 }
