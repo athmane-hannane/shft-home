@@ -1,5 +1,5 @@
 .section_1 {
-  max-width: 1300px;
+  max-width: 1800px;
   margin: auto;
   text-align: center;
   padding-top: 100px;
@@ -123,7 +123,7 @@ img.articles_left_img {
 }
 
 .separate_lines_main {
-  max-width: 1300px;
+  max-width: 1800px;
   margin: auto;
   position: relative;
 }
@@ -133,7 +133,7 @@ img.articles_left_img {
   position: fixed;
   height: 100vh;
   margin: auto;
-  max-width: 1300px;
+  max-width: 1800px;
   top: 0px;
 }
 

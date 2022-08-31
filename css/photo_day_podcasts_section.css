@@ -1,5 +1,5 @@
 .pod_podcast_section {
-  max-width: 1300px;
+  max-width: 1800px;
   margin: auto;
   position: relative;
   padding-left: 80px;
@@ -74,4 +74,16 @@ button.btn_submit {
   padding: 8px 17px;
   font-size: 14px;
   font-family: "Canela-Bold-Trial";
+}
+
+.podp_right_inside {
+  padding-top: 125px;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.podp_podcasts_space {
+  height: 2px;
+  width: 100%;
+  background: black;
 }
