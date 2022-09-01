@@ -101,3 +101,20 @@ span.dropdown {
   padding-top: 100px;
   padding-bottom: 25px;
 }
+
+.inside_col {
+  padding: 30px 50px;
+}
+
+h4.h4_big {
+  font-size: 20px;
+  font-family: "Canela-Bold-Trial";
+}
+
+.btn_submit_div.text-left {
+  text-align: left;
+}
+
+.inside_col.text-left button.btn_submit {
+  font-size: 16px;
+}
