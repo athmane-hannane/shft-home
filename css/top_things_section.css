@@ -67,6 +67,32 @@ span.dropdown {
 }
 
 .separate_line_div_tts {
-  padding-bottom: 35px;
+  padding-bottom: 15px;
   padding-top: 35px;
+}
+
+.inside_wts {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.articles_left.padd {
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+}
+
+.top_things_section_inside.pdd_iu {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 30px;
+}
+
+.middle_cc {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.title_fd.text-center {
+  padding-bottom: 25px;
 }
