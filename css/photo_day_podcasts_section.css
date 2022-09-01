@@ -178,3 +178,39 @@ p.p_about {
   position: relative;
   top: 2px;
 }
+
+.top_things_section {
+  max-width: 1800px;
+  margin: auto;
+  position: relative;
+}
+
+.top_things_left {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.top_things_section_inside {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.inside_ttr {
+  padding-top: 20px;
+  padding-left: 28px;
+}
+
+.ttl_normal {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.ttl_normal_inside .carrousel_item_small_img {
+  height: 300px;
+}
+
+.top_things_right {
+  padding-left: 130px;
+  padding-right: 130px;
+  text-align: center;
+}
