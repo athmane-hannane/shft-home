@@ -58,11 +58,11 @@
   padding-top: 14px;
 }
 
-.carrousel_item_small_inside {
+.padding_div_sm {
   padding: 8px 30px;
 }
 
-.carrousel_item_small_img {
+.custom_img_div {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

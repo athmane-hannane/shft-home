@@ -36,17 +36,17 @@ p.author_pod_p {
 }
 
 span.img_auth {
-  width: 35px;
-  height: 35px;
+  width: 29px;
+  height: 29px;
   background: url(../images/profile_user.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   display: inline-block;
   position: relative;
-  top: 10px;
-  margin-left: 10px;
-  margin-right: 5px;
+  top: 8px;
+  margin-left: 5px;
+  margin-right: 4px;
 }
 
 .btn_submit_div {
