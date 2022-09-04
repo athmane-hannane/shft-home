@@ -1,17 +1,6 @@
-.top_things_section {
-  max-width: 1800px;
-  margin: auto;
-  position: relative;
-}
-
 .top_things_left {
   padding-left: 80px;
   padding-right: 80px;
-}
-
-.top_things_section_inside {
-  padding-left: 25px;
-  padding-right: 25px;
 }
 
 .inside_ttr {
@@ -34,17 +23,6 @@
   text-align: center;
   max-width: 600px;
   margin: auto;
-}
-
-.title_tts {
-  text-align: center;
-  padding-left: 80px;
-  padding-right: 80px;
-}
-
-.title_tts h4.header_green_h4 {
-  padding-top: 20px;
-  padding-bottom: 50px;
 }
 
 span.city_span {
@@ -82,24 +60,9 @@ span.dropdown {
   padding-top: 25px;
 }
 
-.top_things_section_inside.pdd_iu {
-  padding-left: 60px;
-  padding-right: 60px;
-  padding-top: 30px;
-}
-
 .middle_cc {
   padding-left: 80px;
   padding-right: 80px;
-}
-
-.title_fd.text-center {
-  padding-bottom: 25px;
-}
-
-.top_things_section_inside.pdd_iu.newpadding {
-  padding-top: 100px;
-  padding-bottom: 25px;
 }
 
 .inside_col {
@@ -117,8 +80,4 @@ h4.h4_big {
 
 .inside_col.text-left button.btn_submit {
   font-size: 16px;
-}
-
-.section_top_padding {
-  padding-top: 100px;
 }

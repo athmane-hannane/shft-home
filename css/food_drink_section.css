@@ -11,12 +11,6 @@
   max-width: 90px;
 }
 
-.food_drink_section {
-  max-width: 1800px;
-  margin: auto;
-  position: relative;
-}
-
 .slidecontainer {
   width: 100%; /* Width of the outside container */
 }
