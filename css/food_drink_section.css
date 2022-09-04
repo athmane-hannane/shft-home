@@ -64,10 +64,6 @@
   padding-top: 14px;
 }
 
-.carrousel_item_small_textes .main_article_h3 {
-  padding: 0px;
-} 
-
 .carrousel_item_small_inside {
   padding: 8px 30px;
 }
@@ -110,13 +106,6 @@
   padding-bottom: 20px;
 }
 
-.carrousel_item_big_textes .main_article_h3 {
-  font-family: "Canela-Bold-Trial";
-  font-size: 22px;
-  padding-left: 10px;
-  padding-right: 10px;
-  text-align: center;
-}
 
 .carrousel_shift {
   overflow: scroll;

@@ -1,0 +1,54 @@
+.big_header {
+  font-family: "Canela-Bold-Trial";
+  font-size: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0px;
+  line-height: 32px;
+}
+
+.black {
+  color: black;
+}
+
+.green {
+  color: #1DAC68;
+}
+
+.padding_top_div {
+  padding-top: 24px;
+}
+
+.width_max {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 380px;
+}
+
+.category_p {
+  color: #414A48;
+  font-family: "CanelaText-Light-Trial";
+  font-size: 13px;
+  text-transform: uppercase;
+  line-height: 20px;
+  letter-spacing: 0.07em;
+  margin: 0px;
+  padding: 0px;
+  padding-bottom: 7px;
+}
+
+.normal_header {
+  font-family: "CanelaText-Light-Trial";
+  font-size: 17px;
+  margin: 0px;
+  line-height: 24px;
+}
+
+.sm_padding_top_div {
+  padding-top: 10px;
+}
+
+.sm_padding_left_div {
+  padding-left: 10px;
+}
