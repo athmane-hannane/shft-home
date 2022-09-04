@@ -25,10 +25,6 @@
   margin: auto;
 }
 
-span.city_span {
-  color: #1DAC68;
-}
-
 
 span.dropdown {
   width: 18px;
@@ -54,7 +50,7 @@ span.dropdown {
   padding-right: 30px;
 }
 
-.articles_left.padd {
+.m_padding_tlr {
   padding-left: 25px;
   padding-right: 25px;
   padding-top: 25px;
