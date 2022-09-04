@@ -101,11 +101,6 @@
   height: 400px;
 }
 
-.carrousel_item_big_textes {
-  padding-top: 35px;
-  padding-bottom: 20px;
-}
-
 
 .carrousel_shift {
   overflow: scroll;
