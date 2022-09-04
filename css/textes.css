@@ -68,7 +68,7 @@ div .m_padding_bottom_div {
 }
 
 .section {
-  max-width: 1800px;
+  max-width: 1400px;
   margin: auto;
   text-align: center;
   padding: 10px;
@@ -76,7 +76,7 @@ div .m_padding_bottom_div {
 }
 
 .padding_top_first_section {
-  padding-top: 90px;
+  padding-top: 78px;
 }
 
 .xl_padding_lr {
@@ -113,4 +113,12 @@ span.slash {
 
 .s_padding_bottom {
   padding-bottom: 15px;
+}
+
+.none_padding {
+  padding: 0px;
+}
+
+.none_padding_top {
+  padding-top: 0px;
 }

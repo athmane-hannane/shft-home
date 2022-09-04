@@ -38,7 +38,7 @@ a.link_sm {
 }
 
 .padding_div {
-  padding-top: 30px;
+  padding-top: 50px;
   padding-bottom: 10px;
 }
 
@@ -47,4 +47,5 @@ a.link_sm {
   font-size: 13px;
   font-family: "CanelaText-Light-Trial";
   text-transform: uppercase;
+  padding-top: 15px;
 }
