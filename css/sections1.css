@@ -29,19 +29,6 @@ img.img_pic {
   margin: auto;
 }
 
-
-.space_round {
-  background: #1DAC68;
-  height: 6px;
-  width: 6px;
-  border-radius: 100px;
-  display: inline-block;
-  position: relative;
-  top: -2px;
-  margin-left: 5px;
-  margin-right: 5px;
-}
-
 img.logo_main {
   width: 190px;
 }
