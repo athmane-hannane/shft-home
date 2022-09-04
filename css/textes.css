@@ -122,3 +122,7 @@ span.slash {
 .none_padding_top {
   padding-top: 0px;
 }
+
+.xl_padding_top {
+  padding-top: 125px;
+}
