@@ -1,0 +1,26 @@
+.big_header {
+  font-family: "Canela-Bold-Trial";
+  font-size: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0px;
+  line-height: 32px;
+}
+
+.black {
+  color: black;
+}
+
+.green {
+  color: #1DAC68;
+}
+
+.padding_top_div {
+  padding-top: 20px;
+}
+
+.width_max {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
