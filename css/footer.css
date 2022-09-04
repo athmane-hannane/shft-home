@@ -1,0 +1,50 @@
+img.logo_footer {
+  width: 140px;
+}
+.footer {
+  margin-top: 70px;
+  border-top: 2px solid #F5F5F5;
+}
+p.p_footer {
+  font-size: 16px;
+  max-width: 80%;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.grey_background {
+  background-color: #F5F5F5;
+}
+
+.social_media {
+  padding-bottom: 30px;
+}
+
+.links {
+  padding: 10px 50px;
+}
+
+.links a {
+  padding-right: 30px;
+  font-family: "CanelaText-Light-Trial";
+  font-size: 16px;
+}
+
+a.link_sm {
+  font-size: 15px;
+}
+
+.padding_div {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.copyright_p {
+  color: #818684;
+  font-size: 13px;
+  font-family: "CanelaText-Light-Trial";
+  text-transform: uppercase;
+}
