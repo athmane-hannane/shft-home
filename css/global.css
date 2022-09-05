@@ -1,38 +1,42 @@
 @font-face {
   font-family: "CanelaText-Light-Trial";
-  src: url("../fonts/Canela\ Text\ Family/CanelaText-Light-Trial.otf");
+  src: url("../fonts/CanelaTextFamily/CanelaText-Light-Trial.otf");
 }
 
 @font-face {
   font-family: "Canela-Bold-Trial";
-  src: url("../fonts/Canela\ Family/Canela-Bold-Trial.otf");
+  src: url("../fonts/CanelaFamily/Canela-Bold-Trial.otf");
 }
 
 @font-face {
   font-family: "Canela-Medium-Trial";
-  src: url("../fonts/Canela\ Family/Canela-Medium-Trial.otf");
+  src: url("../fonts/CanelaFamily/Canela-Medium-Trial.otf");
 }
 
 @font-face {
   font-family: "Canela-Light-Trial";
-  src: url("../fonts/Canela\ Family/Canela-Light-Trial.otf");
+  src: url("../fonts/CanelaFamily/Canela-Light-Trial.otf");
 }
 
 @font-face {
   font-family: "CanelaText-Medium-Trial";
-  src: url("../fonts/Canela Text Family/CanelaText-Medium-Trial.otf");
+  src: url("../fonts/CanelaTextFamily/CanelaText-Medium-Trial.otf");
 }
 
 @font-face {
   font-family: "Canela-Light-Trial";
-  src: url("../fonts/Canela Text Family/Canela-Light-Trial.otf");
+  src: url("../fonts/CanelaTextFamily/CanelaText-Light-Trial.otf");
 }
 
 @font-face {
   font-family: "Canela-Regular-Trial";
-  src: url("../fonts/Canela\ Family/Canela-Regular-Trial.otf");
+  src: url("../fonts/CanelaFamily/Canela-Regular-Trial.otf");
 }
 
+@font-face {
+  font-family: "CanelaText-Regular-Trial";
+  src: url("../fonts/CanelaTextFamily/CanelaText-Regular-Trial.otf");
+}
 
 html,
 body {

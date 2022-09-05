@@ -12,19 +12,27 @@
 }
 
 span.by_pod {
-  font-size: 13px;
-  font-family: "CanelaText-Light-Trial";
+  font-family: "Canela-Light-Trial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13.89px;
+  line-height: 20px;
+  color: #414A48;
 }
 
 p.author_pod_p {
-  font-size: 16px;
-  font-family: "CanelaText-Light-Trial";
+  font-family: "Canela-Regular-Trial";
   margin-top: 0px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #101828;
 }
 
 span.img_auth {
-  width: 29px;
-  height: 29px;
+  width: 32px;
+  height: 32px;
   background: url(../images/profile_user.png);
   background-size: cover;
   background-repeat: no-repeat;
@@ -46,8 +54,12 @@ button.btn_submit {
   border: 1px solid;
   border-radius: 30px;
   padding: 8px 17px;
-  font-size: 16px;
-  font-family: "Canela-Bold-Trial";
+  font-family: "Canela-Medium-Trial";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: #000000;
 }
 
 .podp_podcasts_space {
@@ -73,8 +85,12 @@ button.btn_submit {
 
 h5.header_5_podcast {
   margin: 0;
-  font-size: 16px;
-  font-family: "CanelaText-Light-Trial";
+  font-family: "Canela-Regular-Trial";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;  
+  color: #1F2322;
 }
 
 .podp_podcasts_item {
@@ -85,22 +101,33 @@ h5.header_5_podcast {
 
 p.paragraphe_podcast {
   margin: 0;
-  font-size: 14px;
-  font-family: "CanelaText-Light-Trial";
+  font-family: "CanelaText-Regular-Trial";
   padding-top: 10px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13.89px;
+  line-height: 20px;
   color: #646867;
 }
 
 span.author_podcast_by {
   color: #414A48;
-  font-size: 13px;
-  font-family: "CanelaText-Light-Trial";
+  font-family: "Canela-Light-Trial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13.89px;
+  line-height: 20px;
+  color: #414A48;
 }
 
 span.author_podcast_by.span_name {
-  color: black;
   padding-left: 7px;
-  font-size: 14px;
+  font-family: "Canela-Medium-Trial";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16.67px;
+  line-height: 24px;
+  color: #000000;
 }
 
 .inside_img_texte {
@@ -109,8 +136,12 @@ span.author_podcast_by.span_name {
   position: absolute;
   right: 0px;
   bottom: 0px;
-  font-size: 15px;
-  font-family: "Canela-Bold-Trial";
+  font-family: "Canela-Regular-Trial";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #000000;
 }
 
 .grey_about_div {
@@ -121,21 +152,28 @@ span.author_podcast_by.span_name {
 
 h5.header_5_about {
   margin: 0;
-  font-size: 15px;
-  font-family: "Canela-Bold-Trial";
+  font-family: "Canela-Light-Trial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 32px;
   text-transform: uppercase;
+  color: #000000;
 }
 
 p.p_about {
-  font-size: 15px;
-  color: #1DAC68;
-  font-family: "CanelaText-Light-Trial";
+  font-family: "Canela-Medium-Trial";
   margin-bottom: 0px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: #1DAC68;
 }
 
 .reload_span {
-  width: 18px;
-  height: 18px;
+  width: 27px;
+  height: 28px;
   background: url(../images/reload.svg);
   background-size: cover;
   background-repeat: no-repeat;
