@@ -8,7 +8,8 @@
 }
 
 img.logo_main {
-  width: 190px;
+  width: 267px;
+  height: 170px;
 }
 
 .logo_div {
@@ -92,8 +93,13 @@ img.card_img_a_u_img {
 h4.header_4 {
   margin: 0;
   font-family: "CanelaText-Light-Trial";
-  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 34.56px;
+  line-height: 44px;
+  text-align: center;
   text-transform: uppercase;
+  color: #000000;
 }
 
 .card_article {
@@ -122,31 +128,51 @@ h4.header_4 {
 
 h2.card_a_u_header_2 {
   margin: 0;
-  font-family: "CanelaText-Light-Trial";
-  color: #000;
+  font-family: "CanelaText-Medium-Trial";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #1F2322;
 }
 
 p.card_a_u_p {
-  font-size: 13px;
-  font-family: "CanelaText-Light-Trial";
-  color: #000;
+  font-family: "CanelaText-Medium-Trial";
   margin: 0;
   padding-top: 10px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13.89px;
+  line-height: 20px;
+  color: #646867;
 }
 
 h5.header_5_big {
   text-align: left;
   padding-left: 12px;
   padding-right: 12px;
-  font-size: 50px;
   margin: 0;
-  font-family: "Canela-Bold-Trial";
+  font-family: "Canela-Regular-Trial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 76px;
+  line-height: 44px;
+  color: #000000;
+  margin-top: 40px;
+  margin-bottom: 5px;
 }
 span.month_span {
-  font-size: 16px;
-  font-family: "CanelaText-Light-Trial";
+  font-family: "Canela-Light-Trial";
   position: relative;
-  top: -20px;
+  top: -45px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16.67px;
+  line-height: 28px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #000000;
+  right: 5px;
 }
 
 .card_article_unit {
@@ -177,13 +203,16 @@ span.month_span {
 }
 
 button.discover_btn {
-  font-family: "Canela-Bold-Trial";
-  color: #000;
-  font-size: 20px;
+  font-family: "Canela-Medium-Trial";
   background: none;
   margin: 0;
   padding: 0;
   margin-bottom: 10px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: #000000;
 }
 
 .line_under {
@@ -211,8 +240,12 @@ button.discover_btn {
 
 p.newsletter_card_p {
   margin: 0px;
+  font-family: "Canela-Medium-Trial";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
   color: #1DAC68;
-  font-family: "Canela-Bold-Trial";
 }
 
 input.email_input {
@@ -220,10 +253,14 @@ input.email_input {
   border-bottom: 1px solid black;
   background: none;
   padding-bottom: 8px;
-  font-size: 13.5px;
-  font-family: "CanelaText-Light-Trial";
+  font-family: "CanelaText-Medium-Trial";
   outline: 0;
-  width: 60%;
+  width: 68%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13.89px;
+  line-height: 20px;
+  color: #929997;
 }
 
 .newsletter_card_content_form {
@@ -231,8 +268,12 @@ input.email_input {
 }
 
 .btn_submit.sm_btn {
-  font-size: 14px;
   padding: 5px 10px;
   font-family: "CanelaText-Light-Trial";
   margin-left: 40px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13.89px;
+  line-height: 20px;
+  color: #000000;
 }

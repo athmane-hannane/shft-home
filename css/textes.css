@@ -1,10 +1,14 @@
 .big_header {
-  font-family: "Canela-Bold-Trial";
-  font-size: 25px;
-  padding-left: 10px;
-  padding-right: 10px;
+  font-family: "Canela-Medium-Trial";
+  padding-left: 24px;
+  padding-right: 24px;
   margin: 0px;
-  line-height: 32px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 41.47px;
+  line-height: 48px;
+  text-align: center;
+  color: #1F2322;
 }
 
 .black {
@@ -27,22 +31,27 @@
 }
 
 .category_p {
-  color: #414A48;
   font-family: "CanelaText-Light-Trial";
-  font-size: 13px;
-  text-transform: uppercase;
-  line-height: 20px;
-  letter-spacing: 0.07em;
   margin: 0px;
   padding: 0px;
   padding-bottom: 7px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13.89px;
+  line-height: 20px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #414A48;
 }
 
 .normal_header {
-  font-family: "CanelaText-Light-Trial";
-  font-size: 17px;
+  font-family: "Canela-Regular-Trial";
   margin: 0px;
-  line-height: 24px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #000000;
 }
 
 div .sm_padding_top_div {
@@ -96,9 +105,14 @@ div .m_padding_bottom_div {
 .m_header_slash {
   margin: 0;
   padding: 0px;
-  font-family: "CanelaText-Light-Trial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 28.56px;
+  line-height: 44px;  
+  text-align: center;
   text-transform: uppercase;
-  font-size: 20px;
+  color: #000000;
+  font-family: "Canela-Light-Trial";
 }
 
 span.slash {
