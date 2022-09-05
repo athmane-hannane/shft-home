@@ -1,19 +1,24 @@
 img.logo_footer {
-  width: 140px;
+  width: 153.2px;
 }
 .footer {
   margin-top: 70px;
   border-top: 2px solid #F5F5F5;
 }
 p.p_footer {
-  font-size: 16px;
+  font-family: "CanelaText-Regular-Trial";
   max-width: 400px;
   margin: auto;
   padding-top: 30px;
   padding-bottom: 30px;
   padding-left: 20px;
   padding-right: 20px;
-  line-height: 28px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.67px;
+  line-height: 32px;
+  text-align: center;
+  color: #000000;
 }
 
 .grey_background {
@@ -24,18 +29,39 @@ p.p_footer {
   padding-bottom: 30px;
 }
 
+.social_media a {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: "Canela-Light-Trial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16.67px;
+  line-height: 28px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #000000;
+}
+
 .links {
   padding: 10px 50px;
 }
 
 .links a {
   padding-right: 30px;
-  font-family: "CanelaText-Light-Trial";
-  font-size: 16px;
+  font-family: "CanelaText-Regular-Trial";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.67px;
+  line-height: 32px;
+  color: #000000;
 }
 
 a.link_sm {
-  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13.89px;
+  line-height: 20px;
+  color: #000000;
 }
 
 .padding_div {
@@ -44,9 +70,12 @@ a.link_sm {
 }
 
 .copyright_p {
-  color: #818684;
-  font-size: 13px;
-  font-family: "CanelaText-Light-Trial";
-  text-transform: uppercase;
+  font-family: "CanelaText-Regular-Trial";
   padding-top: 15px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11.57px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #818684;
 }
