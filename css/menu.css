@@ -1,30 +1,36 @@
 .top_menu_main {
   padding-top: 10px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 95px;
+  padding-right: 50px;
   padding-bottom: 10px;
   border-bottom: 2px solid #F5F5F5;
   margin: auto;
   background: white;
   z-index: 9;
   position: relative;
+  max-width: 1800px;
 }
 
 
 p.weather_p {
-  font-family: "CanelaText-Light-Trial";
-  text-transform: uppercase;
-  font-size: 14px;
-  color: black;
+  font-family: "Canela-Regular-Trial";
   margin: 0px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 20px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #000000;
+
 }
 
 span.weather_icon {
-  width: 28px;
-  height: 28px;
+  width: 22px;
+  height: 22px;
   background: url(../images/sun.svg);
   display: inline-block;
-  margin-left: 12px;
+  margin-left: 8px;
   margin-right: 2px;
   position: relative;
   top: 6px;
@@ -34,13 +40,23 @@ span.weather_icon {
 }
 
 span.weather_temperature {
-  font-family: "Canela-Bold-Trial";
-  font-size: 16px;
+  font-family: "Canela-Regular-Trial";
   color: black;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13.89px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #000000;
 }
 
 .menu_burger_icon {
-  width: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 12px;
+  width: 52px;
   height: 14px;
   background: url(../images/menu_burger.svg);
   background-size: cover;
@@ -56,8 +72,8 @@ span.weather_temperature {
 }
 
 .search_icon {
-  width: 24px;
-  height: 24px;
+  width: 28px;
+  height: 28.14px;
   background: url(../images/search.svg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -78,8 +94,10 @@ button.signin_btn {
   border-radius: 20px;
   background: white;
   padding: 6px 16px;
-  font-size: 13px;
-  font-family: "CanelaText-Light-Trial";
+  font-size: 13.89px;
+  font-family: "Canela-Light-Trial";
+  font-weight: 300;
+  line-height: 20px;
 }
 
 .language_btn {
@@ -93,12 +111,17 @@ button.signin_btn {
 
 .dropbtn {
   color: black;
-  padding: 13px;
-  font-size: 15px;
+  padding: 13px 28px;
+  letter-spacing: 0.07em;
+  font-style: normal;
+  text-transform: uppercase;
+  font-size: 13.89px;
   border: none;
   background-color: white;
   font-family: "CanelaText-Light-Trial";
   padding-right: 0px;
+  font-weight: 300;
+  line-height: 20px;
 }
 
 .dropdown {
@@ -143,5 +166,7 @@ button.signin_btn {
 }
 
 .bold_btn {
-  font-family: "Canela-Bold-Trial";
+  font-family: "CanelaText-Medium-Trial";
+  color: #1DAC68;
+  font-weight: 400;
 }
