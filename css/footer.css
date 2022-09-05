@@ -9,8 +9,8 @@ p.p_footer {
   font-family: "CanelaText-Regular-Trial";
   max-width: 400px;
   margin: auto;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 16px;
+  padding-bottom: 58px;
   padding-left: 20px;
   padding-right: 20px;
   font-style: normal;
@@ -43,11 +43,11 @@ p.p_footer {
 }
 
 .links {
-  padding: 10px 50px;
+  padding: 16px 50px;
 }
 
 .links a {
-  padding-right: 30px;
+  padding-right: 36px;
   font-family: "CanelaText-Regular-Trial";
   font-style: normal;
   font-weight: 400;
@@ -71,11 +71,20 @@ a.link_sm {
 
 .copyright_p {
   font-family: "CanelaText-Regular-Trial";
-  padding-top: 15px;
+  padding-top: 18px;
   font-style: normal;
   font-weight: 400;
   font-size: 11.57px;
   line-height: 18px;
   text-transform: uppercase;
   color: #818684;
+  margin: 0;
+}
+
+.inside_col.links_bottom {
+  padding-top: 95px;
+}
+
+.inside_col.text-center.grey_background {
+  padding-top: 45px;
 }

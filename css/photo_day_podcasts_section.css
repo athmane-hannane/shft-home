@@ -40,12 +40,12 @@ span.img_auth {
   display: inline-block;
   position: relative;
   top: 8px;
-  margin-left: 5px;
-  margin-right: 4px;
+  margin-left: 12px;
+  margin-right: 9px;
 }
 
 .btn_submit_div {
-  padding-top: 35px;
+  padding-top: 52px;
   padding-bottom: 30px;
 }
 
@@ -83,6 +83,11 @@ button.btn_submit {
   padding-right: 10px;
 }
 
+p.author_podcast {
+  margin: 0px;
+  padding-top: 16px;
+}
+
 h5.header_5_podcast {
   margin: 0;
   font-family: "Canela-Regular-Trial";
@@ -95,14 +100,13 @@ h5.header_5_podcast {
 
 .podp_podcasts_item {
   position: relative;
-  margin-top: 20px;
-  margin-bottom: 30px;
+  margin-bottom: 48px;
 }
 
 p.paragraphe_podcast {
   margin: 0;
   font-family: "CanelaText-Regular-Trial";
-  padding-top: 10px;
+  padding-top: 8px;
   font-style: normal;
   font-weight: 100;
   font-size: 13.89px;
@@ -147,7 +151,7 @@ span.author_podcast_by.span_name {
 .grey_about_div {
   padding: 20px;
   text-align: left;
-  margin-top: 35px;
+  padding-top: 149px;
 }
 
 h5.header_5_about {
@@ -163,12 +167,13 @@ h5.header_5_about {
 
 p.p_about {
   font-family: "Canela-Medium-Trial";
-  margin-bottom: 0px;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
   line-height: 32px;
   color: #1DAC68;
+  margin: 0;
+  padding-top: 20px;
 }
 
 .reload_span {
@@ -182,4 +187,9 @@ p.p_about {
   margin-left: 7px;
   position: relative;
   top: 2px;
+}
+
+.title_div_podcast {
+  padding-top: 44px;
+  padding-bottom: 24px;
 }

@@ -40,7 +40,7 @@ img.logo_main {
 .section_first_end {
   padding-right: 35px;
   padding-left: 35px;
-  padding-top: 110px;
+  padding-top: 45px;
 }
 
 .others_articles_right {
@@ -104,7 +104,7 @@ h4.header_4 {
 }
 
 .card_article {
-  padding-top: 90px;
+  padding-top: 83px;
   padding-left: 25px;
   padding-right: 25px;
 }
@@ -160,7 +160,7 @@ h5.header_5_big {
   line-height: 44px;
   color: #000000;
   margin-top: 40px;
-  margin-bottom: 5px;
+  margin-bottom: 4px;
 }
 span.month_span {
   font-family: "Canela-Light-Trial";
@@ -177,8 +177,8 @@ span.month_span {
 }
 
 .card_article_unit {
-  padding-bottom: 15px;
-  padding-top: 10px;
+  padding-bottom: 24px;
+  padding-top: 24px;
 }
 
 .card_green {
@@ -192,6 +192,10 @@ span.month_span {
   border: 2px solid #1DAC68;
 }
 
+h4.big_header.green {
+  padding-top: 24px;
+}
+
 .img_spotlight {
   background-size: cover;
   background-position: center;
@@ -201,9 +205,13 @@ span.month_span {
   margin: auto;
 }
 
+h4.m_header_slash.s_padding_tb {
+  padding-top: 55px;
+}
+
 .card_green_img {
   padding: 30px;
-  padding-top: 10px;
+  padding-top: 24px;
 }
 
 .discover_btn_div {
@@ -265,7 +273,7 @@ input.email_input {
   padding-bottom: 8px;
   font-family: "CanelaText-Medium-Trial";
   outline: 0;
-  width: 68%;
+  width: 78%;
   font-style: normal;
   font-weight: 400;
   font-size: 13.89px;
@@ -280,7 +288,7 @@ input.email_input {
 .btn_submit.sm_btn {
   padding: 5px 10px;
   font-family: "CanelaText-Light-Trial";
-  margin-left: 40px;
+  margin-left: 16px;
   font-style: normal;
   font-weight: 300;
   font-size: 13.89px;

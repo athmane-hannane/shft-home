@@ -9,6 +9,7 @@
   line-height: 48px;
   text-align: center;
   color: #1F2322;
+  padding-top: 4px;
 }
 
 .black {
@@ -34,7 +35,7 @@
   font-family: "CanelaText-Light-Trial";
   margin: 0px;
   padding: 0px;
-  padding-bottom: 7px;
+  padding-bottom: 8px;
   font-style: normal;
   font-weight: 300;
   font-size: 13.89px;
@@ -55,7 +56,7 @@
 }
 
 div .sm_padding_top_div {
-  padding-top: 10px;
+  padding-top: 24px;
 }
 
 .sm_padding_left_div {
@@ -69,7 +70,7 @@ div .sm_padding_top_div {
 }
 
 div .m_padding_bottom_div {
-  padding-bottom: 40px;
+  padding-bottom: 48px;
 }
 
 .margin_m {
@@ -115,26 +116,39 @@ div .m_padding_bottom_div {
   font-family: "Canela-Light-Trial";
 }
 
+.author_pod {
+  padding-top: 20px;
+}
+
+.btn_submit_div.text-center {
+  padding-top: 65px;
+}
+
 span.slash {
   color: #1DAC68;
-  margin-left: 3px;
+  margin-left: 8px;
 }
 
 .s_padding_tb {
-  padding-top: 25px;
-  padding-bottom: 25px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .s_padding_bottom {
   padding-bottom: 15px;
 }
 
+.padd_grid_bottom {
+  padding-bottom: 48px;
+}
+
 .none_padding {
   padding: 0px;
 }
 
-.none_padding_top {
+.none_padding_top_bottom {
   padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 .xl_padding_top {
