@@ -4,7 +4,8 @@
 }
 
 .ttl_normal_inside .custom_img_div {
-  height: 300px;
+  height: 50%;
+  aspect-ratio: 2;
 }
 
 span.dropdown {
