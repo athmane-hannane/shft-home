@@ -129,7 +129,7 @@ h4.header_4 {
 
 h2.card_a_u_header_2 {
   margin: 0;
-  font-family: "CanelaText-Medium-Trial";
+  font-family: "CanelaText-Regular-Trial";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -196,8 +196,9 @@ span.month_span {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 400px;
-  width: 100%;
+  height: 500px;
+  width: 500px;
+  margin: auto;
 }
 
 .card_green_img {
