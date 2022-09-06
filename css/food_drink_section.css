@@ -98,6 +98,16 @@
   aspect-ratio: 1;
 }
 
+.rectangle_div {
+  height: 100%;
+  aspect-ratio: 2;
+} 
+
+.mi_rectangle_div {
+  height: 100%;
+  aspect-ratio: 1.5;
+} 
+
 
 .carrousel_shift {
   overflow: scroll;
