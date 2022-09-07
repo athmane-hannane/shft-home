@@ -57,7 +57,7 @@ span.weather_temperature {
   padding: 0px;
   gap: 12px;
   width: 52px;
-  height: 14px;
+  height: 15px;
   background: url(../images/menu_burger.svg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -169,4 +169,29 @@ button.signin_btn {
   font-family: "CanelaText-Medium-Trial";
   color: #1DAC68;
   font-weight: 400;
+}
+
+
+
+@media (max-width: 767px) {
+  .content_signin_menu {
+    display: none;
+  }
+  div img.logo_main {
+    width: 157px;
+    height: 100px;
+  }
+
+  .text-center.logo_div {
+    top: -55px;
+  }
+
+  .section.padding_top_first_section {
+    padding-top: 60px;
+  }
+
+  div .big_header {
+    font-size: 34.56px;
+    line-height: 44px;
+  }
 }
