@@ -117,6 +117,11 @@ div .m_padding_bottom_div {
   padding-right: 36px;
 }
 
+.padding_lr_65 {
+  padding-left: 65px;
+  padding-right: 65px;
+}
+
 .padding_top_32 {
   padding-top: 32px;
 }
@@ -186,4 +191,8 @@ span.slash {
 
 .xl_padding_top {
   padding-top: 125px;
+}
+
+.padding_none {
+  padding: 0px;
 }

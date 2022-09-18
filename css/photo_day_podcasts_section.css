@@ -157,9 +157,13 @@ span.author_podcast_by.span_name {
 }
 
 .grey_about_div {
-  padding: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
   text-align: left;
-  padding-top: 149px;
+  margin-top: 60px;
+  background: #FAFAFA;
 }
 
 h5.header_5_about {
