@@ -4,55 +4,6 @@
   padding-bottom: 40px;
 }
 
-.div_slider {
-  position: absolute;
-  right: 90px;
-  top: 72px;
-  max-width: 90px;
-}
-
-.slidecontainer {
-  width: 100%; /* Width of the outside container */
-}
-
-/* The slider itself */
-.slider {
-  -webkit-appearance: none;  /* Override default CSS styles */
-  appearance: none;
-  width: 100%; /* Full-width */
-  height: 5px; /* Specified height */
-  background: #DADBDB; /* Grey background */
-  outline: none; /* Remove outline */
-  opacity: 0.8; /* Set transparency (for mouse-over effects on hover) */
-  -webkit-transition: .2s; /* 0.2 seconds transition on hover */
-  transition: opacity .2s;
-  border-radius: 4px;
-}
-
-/* Mouse-over effects */
-.slider:hover {
-  opacity: 1; /* Fully shown on mouse-over */
-}
-
-/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
-.slider::-webkit-slider-thumb {
-  -webkit-appearance: none; /* Override default look */
-  appearance: none;
-  width: 25px; /* Set a specific slider handle width */
-  height: 25px; /* Slider handle height */
-  background: #1DAC68; /* Green background */
-  cursor: pointer; /* Cursor on hover */
-  border-radius: 100%;
-}
-
-.slider::-moz-range-thumb {
-  width: 25px; /* Set a specific slider handle width */
-  height: 25px; /* Slider handle height */
-  background: #1DAC68; /* Green background */
-  cursor: pointer; /* Cursor on hover */
-  border-radius: 100%;
-}
-
 .carrousel_item_small_textes {
   text-align: left;
   padding-top: 14px;
