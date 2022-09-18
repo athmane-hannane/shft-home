@@ -65,3 +65,43 @@
   display: -webkit-inline-box;
   display: -webkit-box;
 }
+
+.more_line {
+  position: relative;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-top: 40px;
+  margin-bottom: 8px;
+  display: -webkit-box;
+  display: flex;
+}
+
+.line {
+  height: 1px;
+  width: 100%;
+  background: #818684;
+  position: relative;
+  top: 15px;
+}
+
+.more_div_right {
+  margin-left: 20px;
+  font-family: "Canela-Light-Trial";
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  cursor: pointer;
+}
+
+.icon_arrow_right {
+  width: 14px;
+  height: 7px;
+  background: url(../images/right_arrow.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  top: 10px;
+}
