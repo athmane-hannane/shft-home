@@ -247,11 +247,15 @@ button.discover_btn {
 
 .newsletter_card {
   padding: 20px 20px;
+  max-width: 700px;
+  margin: auto;
+  margin-top: 60px;
 }
 
 .newsletter_card_inside {
-  padding: 28px 52px;
+  padding: 32px 87px;
   background: #F5F5F5;
+  padding-bottom: 44px;
 }
 
 .newsletter_card_content {
@@ -260,12 +264,13 @@ button.discover_btn {
 
 p.newsletter_card_p {
   margin: 0px;
-  font-family: "Canela-Medium-Trial";
+  font-family: "Canela-Regular-Trial";
   font-style: normal;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 25px;
   line-height: 30px;
-  color: #1DAC68;
+  color: #000000;
+  text-transform: uppercase;
 }
 
 input.email_input {
@@ -273,18 +278,32 @@ input.email_input {
   border-bottom: 1px solid black;
   background: none;
   padding-bottom: 8px;
-  font-family: "CanelaText-Medium-Trial";
   outline: 0;
   width: 78%;
   font-style: normal;
   font-weight: 400;
-  font-size: 13.89px;
+  font-size: 20px;
   line-height: 20px;
-  color: #929997;
+  font-family: "Canela-Regular-Trial";
+  color: #ADB3B1;
+}
+
+input.email_input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #ADB3B1;
+  opacity: 1; /* Firefox */
+}
+
+input.email_input:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #ADB3B1;
+}
+
+input.email_input::-ms-input-placeholder { /* Microsoft Edge */
+  color: #ADB3B1;
 }
 
 .newsletter_card_content_form {
   padding-top: 18px;
+  position: relative;
 }
 
 .btn_submit.sm_btn {
@@ -296,4 +315,17 @@ input.email_input {
   font-size: 13.89px;
   line-height: 20px;
   color: #000000;
+}
+
+
+button.btn_subscribe {
+  height: 47px;
+  width: 47px;
+  background: url(../images/btn_arrow.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  margin-top: 9px;
+  margin-left: 14px;
 }

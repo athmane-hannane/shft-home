@@ -67,6 +67,10 @@ div .sm_padding_top_div {
   padding-top: 40px;
 }
 
+.relative {
+  position: relative;
+}
+
 .background_grey {
   background: #FAFAFA;
 }
