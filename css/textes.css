@@ -63,6 +63,20 @@ div .sm_padding_top_div {
   padding-left: 10px;
 }
 
+.padding_top_40 {
+  padding-top: 40px;
+}
+
+.background_grey {
+  background: #FAFAFA;
+}
+
+.padding_section_tttdo {
+  align-items: center;
+  padding: 60px 0px;
+  gap: 24px;
+}
+
 .width_95 {
   width: 95%;
   margin-left: auto;
@@ -71,6 +85,10 @@ div .sm_padding_top_div {
 
 div .m_padding_bottom_div {
   padding-bottom: 48px;
+}
+
+div .padding_bottom_36 {
+  padding-bottom: 36px;
 }
 
 .margin_m {
@@ -115,6 +133,11 @@ div .m_padding_bottom_div {
 .padding_left_right {
   padding-left: 36px;
   padding-right: 36px;
+}
+
+.tttd_padding_left_right {
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .padding_lr_65 {
