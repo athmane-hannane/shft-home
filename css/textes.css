@@ -94,6 +94,39 @@ div .m_padding_bottom_div {
   padding-right: 80px;
 }
 
+.left_padding {
+  padding-left: 28px;
+}
+
+.right_padding {
+  padding-right: 28px;
+}
+
+.max_height_300 {
+  max-height: 300px;
+  margin: auto;
+}
+
+.max_width_300 {
+  max-width: 300px;
+  margin: auto;
+}
+
+.padding_left_right {
+  padding-left: 36px;
+  padding-right: 36px;
+}
+
+.padding_top_32 {
+  padding-top: 32px;
+}
+
+.food_drinks_padding {
+  padding-top: 12px;
+  padding-left: 26px;
+  padding-right: 26px;
+}
+
 .s_padding_lr {
   padding-left: 25px;
   padding-right: 25px;
