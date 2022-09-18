@@ -77,6 +77,10 @@ div .sm_padding_top_div {
   gap: 24px;
 }
 
+.padding_top_10 {
+  padding-top: 10px;
+}
+
 .width_95 {
   width: 95%;
   margin-left: auto;
@@ -89,6 +93,10 @@ div .m_padding_bottom_div {
 
 div .padding_bottom_36 {
   padding-bottom: 36px;
+}
+
+.inside_wts {
+  padding: 0px 20px;
 }
 
 .margin_m {
