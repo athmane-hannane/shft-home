@@ -77,6 +77,33 @@ li.tttd_li {
   width: 300px;
 }
 
+.checkbox_round {
+  width: 1.3em;
+  height: 1.3em;
+  background-color: white;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.checkbox_round:checked {
+  background-color: gray;
+}
+
+label.label {
+  font-family: "Canela-Regular-Trial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  color: #000000;
+}
+
 
 @media (max-width: 767px) {
   .mobile_layout {
