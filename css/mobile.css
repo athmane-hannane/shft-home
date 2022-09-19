@@ -1,7 +1,5 @@
 .mobile_layout {
   position: relative;
-  padding-left: 24px;
-  padding-right: 24px;
 }
 
 .ad_space {
@@ -44,6 +42,39 @@ p.ad_text_sm {
   background: #F5F5F5;
   padding-bottom: 44px;
   margin-bottom: 50px;
+}
+
+.tttd_lists {
+  width: 100%;
+  padding: 0px;
+  overflow: hidden;
+  display: inline-block;
+  margin-top: 30px;
+}
+
+.tttd_lists_inside {
+  padding: 2px;
+  overflow: auto;
+}
+
+li.tttd_li {
+  float: left;
+  margin-bottom: -1px;
+  position: relative;
+  display: block;
+  padding: 10px;
+  width: 100%;
+  white-space: nowrap;
+  padding-top: 16px;
+}
+
+.tttd_li .normal_header {
+  white-space: normal;
+}
+
+.tttd_li .custom_img_div {
+  height: 300px;
+  width: 300px;
 }
 
 

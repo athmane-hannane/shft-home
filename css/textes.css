@@ -207,6 +207,11 @@ span.slash {
   padding-bottom: 24px;
 }
 
+.s_padding_lr {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
 .s_padding_bottom {
   padding-bottom: 15px;
 }
