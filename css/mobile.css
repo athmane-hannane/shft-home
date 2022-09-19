@@ -1,0 +1,58 @@
+.mobile_layout {
+  position: relative;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.ad_space {
+  background: #ECEDEC;
+  padding: 10px;
+  text-align: center;
+  height: 250px;
+}
+
+p.ad_text {
+  font-family: "Canela-Light-Trial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 34.56px;
+  line-height: 44px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #000000;
+  position: relative;
+  top: 25px;
+}
+
+p.ad_text_sm {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 44px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: "Canela-Light-Trial";
+}
+
+.mobile_layout {
+  display: none;
+}
+
+.newsletter_card_inside_mobile {
+  padding: 20px 24px;
+  background: #F5F5F5;
+  padding-bottom: 44px;
+  margin-bottom: 50px;
+}
+
+
+@media (max-width: 767px) {
+  .mobile_layout {
+    display: block;
+  }
+
+  .mobile_layout span.author_podcast_by.span_name {
+    padding-left: 0px;
+  }
+}

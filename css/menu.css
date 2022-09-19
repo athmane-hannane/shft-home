@@ -242,6 +242,8 @@ li.li_text {
   div .big_header {
     font-size: 34.56px;
     line-height: 44px;
+    padding-left: 0px;
+    padding-right: 0px;
   }
 
   .weather_div {

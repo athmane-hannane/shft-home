@@ -196,6 +196,13 @@ hr {
   user-select: none;
 }
 
+@media (max-width: 768px) {
+  .none_mobile {
+    display: none;
+  }
+}
+
+
 @media (min-width: 768px) {
   .col-sm-1,
   .col-sm-2,
