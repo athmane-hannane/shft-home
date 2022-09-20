@@ -78,8 +78,8 @@ li.tttd_li {
 }
 
 .checkbox_round {
-  width: 1.3em;
-  height: 1.3em;
+  width: 33px;
+  height: 33px;
   background-color: white;
   border-radius: 50%;
   vertical-align: middle;
