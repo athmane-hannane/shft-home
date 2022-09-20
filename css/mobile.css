@@ -104,6 +104,10 @@ label.label {
   color: #000000;
 }
 
+.padding_lf {
+  padding-left: 5px;
+  padding-right: 5px;
+}
 
 @media (max-width: 767px) {
   .mobile_layout {
