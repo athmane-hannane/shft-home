@@ -172,6 +172,55 @@ button.signin_btn {
 }
 
 
+.texts_menu_mobile {
+  border-top: 2px solid #F5F5F5;
+  width: 100%;
+  padding: 0px;
+  overflow: hidden;
+  display: inline-block;
+  margin-top: 16px;
+  display: none;
+}
+
+.texts_menu_mobile_inside {
+  background: white;
+  padding: 2px;
+  overflow: auto;
+}
+
+.texts_menu_mobile_ul{
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: nowrap;
+  list-style: none;
+  margin: 1rem 0;
+  overflow-x: scroll;
+  padding: 0 0 0 1rem;
+  scroll-padding-left: 1rem;
+  margin: 0;
+  padding: 0px;
+}
+
+li.li_text {
+  float: left;
+  margin-bottom: -1px;
+  position: relative;
+  display: block;
+  padding: 10px;
+  width: 100%;
+  white-space: nowrap;
+  padding-top: 16px;
+  font-family: "CanelaText-Light-Trial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13.89px;
+  line-height: 13px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #000000;
+  padding-right: 37px;
+}
+
 
 @media (max-width: 767px) {
   .content_signin_menu {
@@ -193,5 +242,28 @@ button.signin_btn {
   div .big_header {
     font-size: 34.56px;
     line-height: 44px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .weather_div {
+    display: none;
+  }
+
+  .content_weather_search_menu_brg {
+    text-align: right;
+  }
+
+  .top_menu_main {
+    padding-left: 0px;
+    padding-right: 0px;
+    border: none;
+  }
+  .search_menu_brg_div {
+    padding-right: 24px;
+  }
+
+  .texts_menu_mobile {
+    display: block;
   }
 }

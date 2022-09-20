@@ -63,6 +63,28 @@ div .sm_padding_top_div {
   padding-left: 10px;
 }
 
+.padding_top_40 {
+  padding-top: 40px;
+}
+
+.relative {
+  position: relative;
+}
+
+.background_grey {
+  background: #FAFAFA;
+}
+
+.padding_section_tttdo {
+  align-items: center;
+  padding: 60px 0px;
+  gap: 24px;
+}
+
+.padding_top_10 {
+  padding-top: 10px;
+}
+
 .width_95 {
   width: 95%;
   margin-left: auto;
@@ -71,6 +93,14 @@ div .sm_padding_top_div {
 
 div .m_padding_bottom_div {
   padding-bottom: 48px;
+}
+
+div .padding_bottom_36 {
+  padding-bottom: 36px;
+}
+
+.inside_wts {
+  padding: 0px 20px;
 }
 
 .margin_m {
@@ -92,6 +122,49 @@ div .m_padding_bottom_div {
 .xl_padding_lr {
   padding-left: 80px;
   padding-right: 80px;
+}
+
+.left_padding {
+  padding-left: 28px;
+}
+
+.right_padding {
+  padding-right: 28px;
+}
+
+.max_height_300 {
+  max-height: 300px;
+  margin: auto;
+}
+
+.max_width_300 {
+  max-width: 300px;
+  margin: auto;
+}
+
+.padding_left_right {
+  padding-left: 36px;
+  padding-right: 36px;
+}
+
+div .tttd_padding_left_right {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.padding_lr_65 {
+  padding-left: 65px;
+  padding-right: 65px;
+}
+
+.padding_top_32 {
+  padding-top: 32px;
+}
+
+.food_drinks_padding {
+  padding-top: 12px;
+  padding-left: 26px;
+  padding-right: 26px;
 }
 
 .s_padding_lr {
@@ -134,6 +207,11 @@ span.slash {
   padding-bottom: 24px;
 }
 
+.s_padding_lr {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
 .s_padding_bottom {
   padding-bottom: 15px;
 }
@@ -153,4 +231,8 @@ span.slash {
 
 .xl_padding_top {
   padding-top: 125px;
+}
+
+.padding_none {
+  padding: 0px;
 }

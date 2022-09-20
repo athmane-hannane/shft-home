@@ -1,0 +1,136 @@
+.mobile_layout {
+  position: relative;
+}
+
+.ad_space {
+  background: #ECEDEC;
+  padding: 10px;
+  text-align: center;
+  height: 250px;
+}
+
+p.ad_text {
+  font-family: "Canela-Light-Trial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 34.56px;
+  line-height: 44px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #000000;
+  position: relative;
+  top: 25px;
+}
+
+p.ad_text_sm {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 44px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: "Canela-Light-Trial";
+}
+
+.mobile_layout {
+  display: none;
+}
+
+.newsletter_card_inside_mobile {
+  padding: 20px 24px;
+  background: #F5F5F5;
+  padding-bottom: 44px;
+  margin-bottom: 50px;
+}
+
+.tttd_lists {
+  width: 100%;
+  padding: 0px;
+  overflow: hidden;
+  display: inline-block;
+  margin-top: 30px;
+}
+
+.tttd_lists_inside {
+  padding: 2px;
+  overflow: auto;
+}
+
+li.tttd_li {
+  float: left;
+  margin-bottom: -1px;
+  position: relative;
+  display: block;
+  padding: 10px;
+  width: 100%;
+  white-space: nowrap;
+  padding-top: 16px;
+}
+
+.tttd_li .normal_header {
+  white-space: normal;
+}
+
+.tttd_li .custom_img_div {
+  height: 300px;
+  width: 300px;
+}
+
+.checkbox_round {
+  width: 33px;
+  height: 33px;
+  background-color: white;
+  border-radius: 50%;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+  appearance: none;
+  -webkit-appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.checkbox_round:checked {
+  background-color: gray;
+}
+
+label.label {
+  font-family: "Canela-Regular-Trial";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  color: #000000;
+}
+
+.padding_lf {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.spotlight {
+  margin-top: 130px;
+  background: #1DAC68;
+}
+
+.spotlight h4.big_header.green.tttd_padding_left_right {
+  color: white;
+}
+
+@media (max-width: 767px) {
+  .mobile_layout {
+    display: block;
+  }
+
+  .mobile_layout span.author_podcast_by.span_name {
+    padding-left: 0px;
+  }
+  .links {
+    padding: 15px 20px;
+    text-align: center;
+  }
+  .links.none_padding_top_bottom {
+    padding-top: 0px;
+  }
+}
