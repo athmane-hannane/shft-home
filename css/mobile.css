@@ -110,7 +110,12 @@ label.label {
 }
 
 .spotlight {
-  padding-top: 130px;
+  margin-top: 130px;
+  background: #1DAC68;
+}
+
+.spotlight h4.big_header.green.tttd_padding_left_right {
+  color: white;
 }
 
 @media (max-width: 767px) {
@@ -120,5 +125,12 @@ label.label {
 
   .mobile_layout span.author_podcast_by.span_name {
     padding-left: 0px;
+  }
+  .links {
+    padding: 15px 20px;
+    text-align: center;
+  }
+  .links.none_padding_top_bottom {
+    padding-top: 0px;
   }
 }
