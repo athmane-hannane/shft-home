@@ -109,6 +109,10 @@ label.label {
   padding-right: 5px;
 }
 
+.spotlight {
+  padding-top: 130px;
+}
+
 @media (max-width: 767px) {
   .mobile_layout {
     display: block;
